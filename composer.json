@@ -1,6 +1,6 @@
 {
 	"name": "jaeger-app/platforms-console",
-	"description": "A CMS Platform abstraction layer for platform agnostic development.",
+	"description": "A Console Platform object for use with Jaeger.",
 	"require": {
 		"php": ">=5.4.0",
 		"jaeger-app/exceptions": "dev-master",

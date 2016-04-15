@@ -6,7 +6,7 @@
  * @copyright	Copyright (c) 2015-2016, mithra62, Eric Lamb
  * @link		http://jaeger-app.com
  * @version		1.0
- * @filesource 	./Console.php
+ * @filesource 	./Platforms/Console.php
  */
 namespace JaegerApp\Platforms;
 

@@ -1,6 +1,10 @@
 {
 	"name": "jaeger-app/platforms-console",
-	"description": "A Console Platform object for use with Jaeger.",
+	"description": "A Console Platform driver for use with Jaeger\Platform.",
+    "keywords": [
+        "Console",
+        "Command Line"
+    ],		
 	"require": {
 		"php": ">=5.4.0",
 		"jaeger-app/exceptions": "dev-master",

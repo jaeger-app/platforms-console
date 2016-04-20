@@ -1,6 +1,6 @@
 {
 	"name": "jaeger-app/platforms-console",
-	"description": "A Console Platform driver for use with Jaeger\Platform.",
+	"description": "A Console Platform driver for use with Jaeger\\Platform.",
     "keywords": [
         "Console",
         "Command Line"
